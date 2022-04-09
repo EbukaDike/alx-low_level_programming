@@ -1,1 +1,1 @@
-to print size
+to generate assembly code

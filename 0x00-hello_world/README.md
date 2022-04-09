@@ -1,1 +1,1 @@
-dont execute the script
+a script that generates assembly code

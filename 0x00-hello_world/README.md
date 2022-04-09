@@ -1,1 +1,1 @@
-a script that compiles a c file named cisfun
+to print on the screen

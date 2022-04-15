@@ -1,1 +1,1 @@
-this isnt easy
+putchar
